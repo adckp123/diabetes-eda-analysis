@@ -37,7 +37,7 @@
 ## 运行指南
 1. 克隆仓库：
    ```bash
-   git clone https://github.com/your-username/diabetes-eda-analysis.git
+   git clone https://github.com/dackp123/diabetes-eda-analysis.git
    ```
 2. 安装依赖：
    ```bash
